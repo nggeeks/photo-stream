@@ -1,4 +1,4 @@
-*{ margin: 0%; }
+
 
 .App {
   text-align: center;
@@ -11,6 +11,9 @@
 }
 
 .App-body {
+ display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 16px 24px;
 }
 
@@ -42,3 +45,4 @@
     transform: rotate(360deg);
   }
 }
+

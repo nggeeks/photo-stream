@@ -1,1 +1,1 @@
-export * from './PhotoContainer';
+export * from './photoContainer';
