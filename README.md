@@ -16,7 +16,7 @@ https://github.com/nggeeks/photo-stream.git
 
 After cloning this repository you can:
 
-In order to run this program on your own computer you will need to apply for a Flickr API Key and then add it [here]()
+In order to run this program on your own computer you will need to apply for a Flickr API Key and then add it [here](https://github.com/nggeeks/photo-stream/blob/eb3ba2b0e7bc5259e4f2f7c4e121e4310072e2cb/src/config.js#L1)
 
 Navigate to the project folder in your terminal and run:
 ```
