@@ -30,4 +30,4 @@ http://localhost:3000
 ```
 
 ### Screenshot
-![Alt text](?raw=true "Optional Title")
+![Alt text](https://github.com/nggeeks/photo-stream/blob/c7464f7c36e8ae8dae2d89415581a9a605453255/Screenshot.png?raw=true "Optional Title")
